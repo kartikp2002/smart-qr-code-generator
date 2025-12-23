@@ -17,3 +17,7 @@ A Flask-based web application to generate QR codes from text or URLs.
 ## How to Run
 pip install -r requirements.txt
 python app.py
+
+## Author
+Kartik Panchal  
+Python Developer | Flask | Backend Development
